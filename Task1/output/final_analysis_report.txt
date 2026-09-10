@@ -1,0 +1,15 @@
+ZOMATO DATA ANALYSIS - KEY INSIGHTS
+============================================================
+Total records after cleaning: 40549
+Total columns: 13
+Restaurant hotspot: BTM
+Most common cuisine: North Indian
+
+============================================================
+5 RECOMMENDATIONS FOR AN ALFIDO TECH STYLE PLATFORM
+============================================================
+1. Promote highly rated cuisines: Partner with restaurants from highly rated cuisine categories and create curated food collections.
+2. Location-based discovery: Use restaurant hotspots and user location to recommend nearby restaurants.
+3. Personalized recommendations: Use cuisine preferences, ratings, price range and location to build personalized restaurant suggestions.
+4. Budget-friendly recommendations: Create a budget category highlighting affordable restaurants with strong customer ratings.
+5. Trust-based ranking: Combine restaurant ratings with the number of votes or reviews so that rankings do not depend only on average rating.

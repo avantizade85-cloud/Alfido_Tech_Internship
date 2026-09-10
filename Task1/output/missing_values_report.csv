@@ -1,0 +1,14 @@
+Column,Missing Values,Missing Percentage
+dish_liked,28225,50.18
+rate,7838,13.93
+listed_in(type),4610,8.2
+phone,1296,2.3
+approx_cost(for two people),521,0.93
+rest_type,338,0.6
+cuisines,203,0.36
+location,126,0.22
+votes,78,0.14
+book_table,58,0.1
+online_order,19,0.03
+address,17,0.03
+name,16,0.03
