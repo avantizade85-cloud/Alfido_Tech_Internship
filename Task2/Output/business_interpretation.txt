@@ -1,0 +1,40 @@
+
+============================================================
+LOAN APPROVAL PREDICTION - BUSINESS INTERPRETATION
+============================================================
+
+Objective:
+Predict whether a loan application is likely to be approved.
+
+Models:
+1. Logistic Regression
+2. Random Forest
+
+Best Model:
+Logistic Regression
+
+Recommended Threshold:
+0.20
+
+Precision:
+0.8621
+
+Recall:
+0.8824
+
+F1 Score:
+0.8721
+
+ROC-AUC:
+0.8759
+
+Missing values were handled using median and mode imputation.
+Categorical variables were encoded using One-Hot Encoding.
+Numerical variables were standardized using StandardScaler.
+SMOTE was applied to the training data to handle class imbalance.
+
+A lower threshold can increase recall, while a higher threshold
+makes the model more conservative.
+
+The model should support loan screening and should not be the
+sole basis for final lending decisions.

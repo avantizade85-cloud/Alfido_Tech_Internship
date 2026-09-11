@@ -1,0 +1,33 @@
+
+ALFIDO TECH - PROJECT 2
+LOAN APPROVAL PREDICTION
+
+Dataset Shape:
+(614, 12)
+
+Training Records:
+674
+
+Testing Records:
+123
+
+Best Model:
+Logistic Regression
+
+Recommended Threshold:
+0.20
+
+Precision:
+0.8621
+
+Recall:
+0.8824
+
+F1 Score:
+0.8721
+
+ROC-AUC:
+0.8759
+
+All required preprocessing, SMOTE, model comparison,
+evaluation and threshold analysis were completed.
